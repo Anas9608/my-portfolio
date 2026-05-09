@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Mail } from "lucide-react";
-import AmbientCanvas from "./AmbientCanvas";
+//import AmbientCanvas from "./AmbientCanvas";
 import { FaGithub as Github, FaLinkedin as Linkedin } from "react-icons/fa";
 
 export default function Hero() {
